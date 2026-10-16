@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skenergiechecken.com/sitemap.xml
